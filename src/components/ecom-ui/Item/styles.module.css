@@ -1,0 +1,17 @@
+.item {
+  width: 120px;
+}
+.item img {
+  width: 100%;
+  background-color: #f2f2f2;
+  height: 180px;
+}
+
+.item h2,
+.item h3 {
+  font-size: 13px;
+}
+
+.item h2 {
+  margin-top: 9px;
+}
